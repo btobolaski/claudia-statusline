@@ -35,3 +35,7 @@ Thumbs.db
 # OAuth/callback files (accidental commits)
 callback*
 *callback?code=*
+
+# Nix build artifacts
+result
+result-*
